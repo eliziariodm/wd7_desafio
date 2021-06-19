@@ -1,0 +1,52 @@
+[
+    {
+      "title": "O guia do Mochileiro das Galáxias",
+      "author": "Douglas Adams",
+      "imageUrl": "https://m.media-amazon.com/images/I/512ERYcB18L.jpg"
+    },
+    {
+      "title": "O Diário de Anne Frank",
+      "author": "Anne Frank",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51G7Sg0NgRL._SX351_BO1,204,203,200_.jpg"
+    },
+    {
+      "title": "Código Limpo",
+      "author": "Robert C. Martin",
+      "imageUrl": "https://m.media-amazon.com/images/I/41IRFCLk-kL.jpg"
+    },
+    {
+      "title": "Arquitetura Limpa",
+      "author": "Robert C. Martin",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41T8NdKFqEL._SX352_BO1,204,203,200_.jpg"
+    },
+    {
+      "title": "O Codificador Limpo",
+      "author": "Robert C. Martin",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91lBONZ4tAL.jpg"
+    },
+    {
+      "title": "Domain-Driven Design",
+      "author": "Eric Evans",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51OWGtzQLLL.__BG0,0,0,0_FMpng_AC_UL600_SR453,600_.jpg"
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81BTkpMrLYL.jpg"
+    },
+    {
+      "title": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51FGgTU-RdL._SX342_SY445_QL70_ML2_.jpg"
+    },
+    {
+      "title": "Memórias Póstumas De Brás Cubas",
+      "author": "Machado De Assis",
+      "imageUrl": "https://m.media-amazon.com/images/I/51GnxyfIDML.jpg"
+    },
+    {
+      "title": "Dom Casmurro",
+      "author": "Machado De Assis",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51PjgRe58sL._SX352_BO1,204,203,200_.jpg"
+    }
+]
