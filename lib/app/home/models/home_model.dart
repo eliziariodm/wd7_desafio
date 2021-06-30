@@ -1,6 +1,4 @@
-import 'package:flutter/widgets.dart';
-
-class HomeModel with ChangeNotifier {
+class HomeModel {
   String? title;
   String? author;
   String? imageUrl;
@@ -22,17 +20,5 @@ class HomeModel with ChangeNotifier {
     data['imageUrl'] = this.imageUrl;
     data['isReserved'] = this.isReserved;
     return data;
-  }
-
-  ValueNotifier<int> selectedIndex = ValueNotifier<int>(0);
-
-  onItemTapped(int index) {
-    selectedIndex.value = index;
-    notifyListeners();
-  }
-
-  void toggleReserved() {
-    isReserved = !isReserved;
-    notifyListeners();
   }
 }

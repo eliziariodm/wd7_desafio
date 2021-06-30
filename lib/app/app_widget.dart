@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:wd7_desafio/app/home/components/reserved_titles.dart';
 import 'package:wd7_desafio/app/home/controllers/home_controller.dart';
-import 'package:wd7_desafio/app/home/models/home_model.dart';
 import 'package:wd7_desafio/app/home/views/home_view.dart';
 
 class AppWidget extends StatelessWidget {
@@ -12,9 +11,6 @@ class AppWidget extends StatelessWidget {
       providers: [
         ChangeNotifierProvider(
           create: (context) => ReservedTitles(),
-        ),
-        ChangeNotifierProvider(
-          create: (context) => HomeModel(),
         ),
         Provider<HomeController>(
           create: (context) => HomeController(),
